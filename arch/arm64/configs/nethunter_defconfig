@@ -1,7 +1,17 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 3.10.108 Kernel Configuration
+# Linux/arm64 3.10.140 Kernel Configuration
 #
+# SoC Audio support
+# CONFIG_SND_SOC_QDSP_DEBUG is not set
+CONFIG_DOLBY_DAP=y
+CONFIG_DOLBY_DS2=y
+CONFIG_DTS_EAGLE=y
+CONFIG_DTS_SRS_TM=y
+CONFIG_SND_SOC_CPE=y
+CONFIG_SND_SOC_I2C_AND_SPI=y
+CONFIG_SOUND_CONTROL=y
+
 CONFIG_ARM64=y
 CONFIG_64BIT=y
 CONFIG_ARCH_PHYS_ADDR_T_64BIT=y
